@@ -7,4 +7,4 @@ This repository is built step by step in the tutorial.
 
 It now includes steps for GitHub
 
-Demonstrating the push to remote repository concept
+Demonstrating the push to remote repository concept for clonning
