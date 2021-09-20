@@ -7,6 +7,12 @@ This repository is built step by step in the tutorial.
 
 It now includes steps for GitHub
 
+<<<<<<< HEAD
 Demonstrating the push to remote repository concept
 
 Changes for demonstrations
+=======
+Demonstrating the push to remote repository concept for clonning
+
+More changes for demo
+>>>>>>> daeb2d751c7ad377422cbe35a24aae62a1f01303
