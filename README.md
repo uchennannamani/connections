@@ -19,4 +19,8 @@ More changes for demo
 
 chekcing in
 
+<<<<<<< HEAD
 working from outlook.com account
+=======
+working on this again
+>>>>>>> 24dabd5d7ed993db2ea415335755e4d428d03693
